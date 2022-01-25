@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Cass 
-- 👀 I’m interested in Art 🎨, Design and Crafting such as Crochet 🧶, Embroidery/Cross Stitch 🪡.
+- 👀 I’m interested in Art 🎨, Design and Crafting such as Crochet 🧶 and Embroidery/Cross Stitch 🪡.
 - 🌱 I’m currently learning visual accessibility as well as design systems and tokenisation [design tokens]
-- 💞️ I’m looking to learn more about how gitHub and JSON can support a design system in several ways
+- 💞️ I’m looking to learn more about how gitHub can support a design system in several ways
 - 📫 How to reach me: on Webex
 
 <!---
